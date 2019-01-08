@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="New Claims">e3d2c97a08f223007f44591d7bc9c479</data_item>
+        <description/>
+        <fetch_type>background</fetch_type>
+        <hidden>false</hidden>
+        <icon/>
+        <name>Activity Stream</name>
+        <order>20</order>
+        <parent>80774dba08f223007f44591d7bc9c4ca</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-08 05:44:14</sys_created_on>
+        <sys_id>08774dba08f223007f44591d7bc9c4bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_08774dba08f223007f44591d7bc9c4bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-08 05:58:20</sys_updated_on>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=08774dba08f223007f44591d7bc9c4bb"/>
+</record_update>

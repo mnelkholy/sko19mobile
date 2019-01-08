@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>All open cases</description>
+        <group_by/>
+        <name>New Claims</name>
+        <query_condition table="sn_customerservice_case">state=1^ORassigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="true" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-08 05:24:16</sys_created_on>
+        <sys_id>e3d2c97a08f223007f44591d7bc9c479</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Claims</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_data_item_e3d2c97a08f223007f44591d7bc9c479</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-08 05:24:16</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e3d2c97a08f223007f44591d7bc9c479"/>
+</record_update>
