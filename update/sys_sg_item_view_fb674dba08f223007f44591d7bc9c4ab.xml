@@ -16,8 +16,8 @@
         <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
         <sys_update_name>sys_sg_item_view_fb674dba08f223007f44591d7bc9c4ab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-08 05:44:13</sys_updated_on>
-        <ui_styles/>
+        <sys_updated_on>2019-01-08 07:21:57</sys_updated_on>
+        <ui_styles>44c511fe08f223007f44591d7bc9c475,56559dbe08f223007f44591d7bc9c46d,5c51d97e08f223007f44591d7bc9c451,8285ddbe08f223007f44591d7bc9c45a</ui_styles>
     </sys_sg_item_view>
     <sys_translated_text action="delete_multiple" query="documentkey=fb674dba08f223007f44591d7bc9c4ab"/>
 </record_update>
