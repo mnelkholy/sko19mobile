@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Call claim requestor">cecceed7dbfa23007e43f35eae9619d1</button>
+        <description/>
+        <field_name>opened_by.mobile_phone</field_name>
+        <label>Opened by.Mobile phone_field</label>
+        <location>field</location>
+        <name>Opened by.Mobile phone_field</name>
+        <order>1</order>
+        <parent>58774dba08f223007f44591d7bc9c4cd</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2019-01-10 02:26:49</sys_created_on>
+        <sys_id>b76de61bdbfa23007e43f35eae961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opened by.Mobile phone_field</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b76de61bdbfa23007e43f35eae961938</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-10 02:26:49</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_button_instance>
+</record_update>

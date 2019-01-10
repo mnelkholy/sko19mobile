@@ -22,5 +22,4 @@
         <sys_updated_on>2019-01-08 05:24:16</sys_updated_on>
         <table>sn_customerservice_case</table>
     </sys_sg_data_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=e3d2c97a08f223007f44591d7bc9c479"/>
 </record_update>
