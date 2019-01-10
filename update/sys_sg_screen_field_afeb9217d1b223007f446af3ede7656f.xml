@@ -6,17 +6,17 @@
         <screen display_value="Details">58774dba08f223007f44591d7bc9c4cd</screen>
         <screen_data_item_table>sn_customerservice_case</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-08 07:21:58</sys_created_on>
-        <sys_id>b3cdd572083623007f44591d7bc9c457</sys_id>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2019-01-10 01:10:20</sys_created_on>
+        <sys_id>afeb9217d1b223007f446af3ede7656f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>asset</sys_name>
         <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
-        <sys_update_name>sys_sg_screen_field_b3cdd572083623007f44591d7bc9c457</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-08 07:21:58</sys_updated_on>
+        <sys_update_name>sys_sg_screen_field_afeb9217d1b223007f446af3ede7656f</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-10 01:10:20</sys_updated_on>
         <type>auto</type>
     </sys_sg_screen_field>
 </record_update>
