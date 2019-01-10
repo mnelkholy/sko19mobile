@@ -24,4 +24,5 @@
         <sys_updated_on>2019-01-10 02:26:49</sys_updated_on>
         <table>sn_customerservice_case</table>
     </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b76de61bdbfa23007e43f35eae961938"/>
 </record_update>
