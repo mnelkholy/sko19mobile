@@ -3,9 +3,7 @@
         <allow_images_upload>false</allow_images_upload>
         <auto_redirection>false</auto_redirection>
         <cancel_label/>
-        <condition table="sn_customerservice_case">assigned_toISEMPTY^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </condition>
+        <condition/>
         <condition_script/>
         <condition_type>declarative</condition_type>
         <confirm_label/>
@@ -24,9 +22,9 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Assign to me</name>
+        <name>Edit</name>
         <offline>true</offline>
-        <offline_template_field>assigned_to={{assign_to}}^EQ</offline_template_field>
+        <offline_template_field>state={{case_state}}^description={{case_description}}^EQ</offline_template_field>
         <offline_template_field_table>sn_customerservice_case</offline_template_field_table>
         <phone_number/>
         <phone_type>cellular</phone_type>
@@ -41,21 +39,21 @@
         <success_message/>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>sush.chan</sys_created_by>
-        <sys_created_on>2019-01-10 06:40:26</sys_created_on>
-        <sys_id>f2d62f5fdbb66300810adb184b961937</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Assign to me</sys_name>
+        <sys_created_on>2019-01-10 07:28:26</sys_created_on>
+        <sys_id>2602bb57dbf66300810adb184b9619f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit</sys_name>
         <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
-        <sys_update_name>sys_sg_button_f2d62f5fdbb66300810adb184b961937</sys_update_name>
+        <sys_update_name>sys_sg_button_2602bb57dbf66300810adb184b9619f4</sys_update_name>
         <sys_updated_by>sush.chan</sys_updated_by>
-        <sys_updated_on>2019-01-10 18:01:12</sys_updated_on>
+        <sys_updated_on>2019-01-10 17:58:09</sys_updated_on>
         <table>sn_customerservice_case</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Case Assign to me">9d56235fdbb66300810adb184b961932</write_back_action_item>
+        <write_back_action_item display_value="Edit case">fb3cef53dbf66300810adb184b961921</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=f2d62f5fdbb66300810adb184b961937"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2602bb57dbf66300810adb184b9619f4"/>
 </record_update>

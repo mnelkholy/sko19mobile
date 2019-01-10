@@ -15,6 +15,8 @@
         <external_browser>false</external_browser>
         <failure_message/>
         <field_name>location</field_name>
+        <hide_buttons/>
+        <hide_fields/>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
         <link_url/>
@@ -22,12 +24,17 @@
         <mail_content/>
         <mail_subject/>
         <name>Case location button</name>
+        <offline>false</offline>
+        <offline_template_field/>
+        <offline_template_field_table/>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>false</relative_url>
         <roles/>
         <select_current_record>false</select_current_record>
+        <show_buttons/>
         <show_confirmation>false</show_confirmation>
+        <show_fields/>
         <show_signature>false</show_signature>
         <sms/>
         <success_message/>
@@ -47,6 +54,7 @@
         <take_value_from_field>true</take_value_from_field>
         <type>map</type>
         <write_back_action_item/>
+        <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=539bded3d1b223007f446af3ede765ef"/>
 </record_update>
