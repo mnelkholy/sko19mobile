@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>asset_tag</name>
+        <parent>f686e3e3dbb2a300810adb184b961954</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2019-01-11 01:19:53</sys_created_on>
+        <sys_id>8db72327dbb2a300810adb184b961994</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>asset_tag</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_8db72327dbb2a300810adb184b961994</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-11 03:38:28</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

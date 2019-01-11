@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Lookup assets by tag</name>
+        <query_condition table="alm_asset">asset_tag={{asset_tag}}<item endquery="false" field="asset_tag" goto="false" newquery="false" operator="=" or="false" value="{{asset_tag}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2019-01-11 01:14:49</sys_created_on>
+        <sys_id>f686e3e3dbb2a300810adb184b961954</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Lookup assets by tag</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_data_item_f686e3e3dbb2a300810adb184b961954</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-11 04:23:40</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=f686e3e3dbb2a300810adb184b961954"/>
+</record_update>

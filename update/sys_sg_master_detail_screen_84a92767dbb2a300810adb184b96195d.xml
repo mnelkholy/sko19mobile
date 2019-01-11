@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Lookup assets by tag">f686e3e3dbb2a300810adb184b961954</data_item>
+        <description>Search for assets</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="hdd">3b99a367dbb2a300810adb184b9619d0</icon>
+        <name>Assets</name>
+        <order>20</order>
+        <parent>d1c4b3a608b223007f44591d7bc9c44c</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2019-01-11 01:28:16</sys_created_on>
+        <sys_id>84a92767dbb2a300810adb184b96195d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Assets</sys_name>
+        <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_84a92767dbb2a300810adb184b96195d</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-11 01:39:18</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=84a92767dbb2a300810adb184b96195d"/>
+</record_update>
