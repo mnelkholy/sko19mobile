@@ -56,4 +56,5 @@
         <write_back_action_item/>
         <zombified_screens/>
     </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=539bded3d1b223007f446af3ede765ef"/>
 </record_update>
