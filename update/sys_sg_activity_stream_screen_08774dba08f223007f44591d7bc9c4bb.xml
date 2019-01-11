@@ -4,7 +4,7 @@
         <add_attachment_button>true</add_attachment_button>
         <add_work_note_button>true</add_work_note_button>
         <application_roles/>
-        <available_offline>false</available_offline>
+        <available_offline>true</available_offline>
         <data_item display_value="New Claims">e3d2c97a08f223007f44591d7bc9c479</data_item>
         <description/>
         <fetch_type>background</fetch_type>
@@ -19,14 +19,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-08 05:44:14</sys_created_on>
         <sys_id>08774dba08f223007f44591d7bc9c4bb</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Activity Stream</sys_name>
         <sys_package display_value="SKO19 mobile app" source="x_snc_sko19_mobile">6c21ffe208b223007f44591d7bc9c4ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="SKO19 mobile app">6c21ffe208b223007f44591d7bc9c4ec</sys_scope>
         <sys_update_name>sys_sg_activity_stream_screen_08774dba08f223007f44591d7bc9c4bb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-08 07:21:57</sys_updated_on>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2019-01-10 23:29:16</sys_updated_on>
     </sys_sg_activity_stream_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=08774dba08f223007f44591d7bc9c4bb"/>
 </record_update>
